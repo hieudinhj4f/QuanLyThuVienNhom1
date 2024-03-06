@@ -1,0 +1,16 @@
+D:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.AssemblyReference.cache
+D:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Account_Create.resources
+D:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Admin_Management.resources
+D:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Customer_Information.resources
+D:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Customer_Selection.resources
+D:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Forgot_Password.resources
+D:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Home.resources
+D:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Login_Form.resources
+D:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+D:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.cache
+D:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+D:\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+D:\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+D:\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+D:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+D:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
